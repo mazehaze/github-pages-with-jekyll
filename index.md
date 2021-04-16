@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to this blog
 
-I'm glad you are here. I plan to talk about ...
+If you are looking for something on the Internet you might use https://duckduckgo.com/
